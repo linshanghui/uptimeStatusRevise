@@ -6,7 +6,7 @@ window.Config = {
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
   ApiKeys: [
-    'ur2620953-1c3ddc98179d973314b8ae62',
+    'ur1881788-219fff7b6d4f3137a89f1962',
   ],
 
   // 日志天数
@@ -19,7 +19,7 @@ window.Config = {
   Navi: [
     {
       text: '主页',
-      url: 'https://xaiolu.top'
+      url: 'https://lahz.cn'
     },
   ],
 };
